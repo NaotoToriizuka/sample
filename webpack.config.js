@@ -23,7 +23,7 @@ module.exports = (env, argv) => {
       ],
     },
 
-    relolve: {
+    resolve: {
       extensions: [".ts", ".js"],
       modules: ["node_modules"],
     },
